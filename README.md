@@ -1,13 +1,16 @@
-**DE⫶TR**: End-to-End Object Detection with Transformers
+**DETR-with-Comments**
 ========
 
-## News:
+本项目基于[**DETR**](https://github.com/facebookresearch/detr)的版本[**29901c51d7fe8712168b8d0d64351170bc0f83e0**](https://github.com/facebookresearch/detr/tree/29901c51d7fe8712168b8d0d64351170bc0f83e0)进行中文注释说明。
 
-本项目基于[**DETR**](https://github.com/facebookresearch/detr)的版本[**29901c51d7fe8712168b8d0d64351170bc0f83e0**](https://github.com/facebookresearch/detr/tree/29901c51d7fe8712168b8d0d64351170bc0f83e0)进行注释说明。
+## News:
 
 - 2024-12-19：增加中文注释，版本[wc-0.1.0+202412192130](https://github.com/KevenGe/DETR-with-Comments/tree/wc-0.1.0%2B202412192130)。
 
 ---
+
+**DE⫶TR**: End-to-End Object Detection with Transformers
+========
 
 [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)
 
